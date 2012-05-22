@@ -1,4 +1,4 @@
-Compiler Design
+Compiler Design2
 ===============
 This course is about the design of [compilers](index.md) (hence the name). To participate, [master the pre-requisites first, or along the way](background.md). [Use git and github](git.md).
 
